@@ -1,5 +1,9 @@
 # eGPU Enclosure
 
+Ever wanted to fire up Fortnite on your laptop? Maybe now you can!
+
+Most of our laptops are GPU bottlenecked by integrated graphics that pair with a strong CPU. That's why big companies have started to make external desktop GPU enclosures. But they are expensive! That's why I'm designing my own.
+
 I'm designing a PCB that lets a USB4 laptop connect to a desktop GPU. The MAIWO K1717 bridge tunnels PCIe over USB-C. My Altium board takes the bridge's M.2 PCIe link, routes it to a full-size GPU slot, and supplies slot power from an ATX power supply.
 
 **Status:** Schematic complete. Began PCB layout design. Fabrication, and hardware testing are pending.

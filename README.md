@@ -1,6 +1,6 @@
 # eGPU Enclosure
 
-Ever wanted to fire up Fortnite on your laptop? Maybe now you can!
+Ever wanted to fire up Fortnite on your shoddy laptop? Well now you can!
 
 Most of our laptops are GPU bottlenecked by integrated graphics that pair with a strong CPU. That's why big companies have started to make external desktop GPU enclosures. But they are expensive! That's why I'm designing my own.
 
